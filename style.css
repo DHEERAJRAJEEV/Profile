@@ -23,7 +23,6 @@ header {
   .navbar ul {
     display: flex;
     list-style: none;
-    margin-left: -50%;
   }
   
   .navbar li {
