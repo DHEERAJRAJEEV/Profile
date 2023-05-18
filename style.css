@@ -18,11 +18,13 @@ header {
   .logo img {
     height: 50px;
     width: 50px;
+    margin left
   }
   
   .navbar ul {
     display: flex;
     list-style: none;
+    margin-left:-15%;
   }
   
   .navbar li {
